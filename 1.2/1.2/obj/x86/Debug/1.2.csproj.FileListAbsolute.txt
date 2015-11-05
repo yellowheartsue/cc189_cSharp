@@ -1,0 +1,4 @@
+c:\users\yi su\documents\visual studio 2010\Projects\cc189\1.2\1.2\bin\Debug\1.2.exe
+c:\users\yi su\documents\visual studio 2010\Projects\cc189\1.2\1.2\bin\Debug\1.2.pdb
+c:\users\yi su\documents\visual studio 2010\Projects\cc189\1.2\1.2\obj\x86\Debug\1.2.exe
+c:\users\yi su\documents\visual studio 2010\Projects\cc189\1.2\1.2\obj\x86\Debug\1.2.pdb
