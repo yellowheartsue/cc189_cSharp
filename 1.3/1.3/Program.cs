@@ -5,7 +5,7 @@ using System.Text;
 
 namespace _1._3
 {
-    class Program //replace all " " in a String with "%20"
+    class Program //url verify: replace all " " in a String with "%20"
     {
         static void Main(string[] args)
         {
