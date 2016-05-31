@@ -1,0 +1,4 @@
+C:\Users\Yi Su\Documents\Visual Studio 2010\Projects\cc189\3.2\3.2\bin\Debug\3.2.exe
+C:\Users\Yi Su\Documents\Visual Studio 2010\Projects\cc189\3.2\3.2\bin\Debug\3.2.pdb
+C:\Users\Yi Su\Documents\Visual Studio 2010\Projects\cc189\3.2\3.2\obj\x86\Debug\3.2.exe
+C:\Users\Yi Su\Documents\Visual Studio 2010\Projects\cc189\3.2\3.2\obj\x86\Debug\3.2.pdb
